@@ -32,3 +32,8 @@ def print_2_by_2_grid():
 def print_4_by_4_grid():
     do_four(print_grid_row, 4)
     print_beam_row(4)
+
+if __name__ == "__main__":
+    print_4_by_4_grid()
+    print()
+    print_2_by_2_grid()
