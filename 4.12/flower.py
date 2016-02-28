@@ -1,3 +1,5 @@
+"""Exercise 4.2, p.37"""
+
 import turtle, math, time
 
 def arc_radius(width, height):

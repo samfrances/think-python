@@ -1,3 +1,5 @@
+"""Exercise 4.3, p.37"""
+
 from polygon import polygon
 import turtle, math
 

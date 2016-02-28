@@ -1,3 +1,5 @@
+"""Exercises, section 4.3, p.31"""
+
 import turtle, math
 bob = turtle.Turtle()
 

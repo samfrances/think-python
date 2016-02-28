@@ -1,3 +1,4 @@
+"""Exercise 3.3, p.27"""
 # At this point in the book, neither return statements nor looping have
 # been introduced, so they cannot be used in this solution.
 
